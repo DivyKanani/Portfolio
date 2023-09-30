@@ -18,8 +18,8 @@ jobs:
       - name: Install and Build
         run: |
           npm install
-          git config --global user.name DivyKanani
-          git config --global user.email divykanani9@gmail.com
+          git config user.name DivyKanani
+          git config user.email divykanani9@gmail.com
 
       - name: Deploy
         run: npm run deploy
