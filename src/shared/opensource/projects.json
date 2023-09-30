@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "NAjkwefnfiwsfpdfv=",
+      "name": "Spring Boot Microservices",
+      "url": "https://github.com/StagOS",
+      "description": "Developed a highly scalable microservice using Spring Boot, facilitating seamless communication between services through RESTful APIs and ensuring efficient product catalog management.Deployed the services on Amazon ECS, harnessing its auto-scaling capabilities to efficiently handle varying workloads.Implemented CI/CD pipeline using GitHub Actions, ensuring continuous builds, tests, and seamless deployments for faster iterations and automated the infrastructure using terraform.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "Spring",
+          "iconifyClass": "logos-spring"
+        },
+        {
+          "name": "hibernate",
+          "iconifyClass": "logos-hibernate"
+        },
+        {
+          "name": "ECS",
+          "iconifyClass": "logos:aws-ecs"
+        },
+        {
+          "name": "RDS",
+          "iconifyClass": "logos:aws-rds"
+        },
+        {
+          "name": "terraform",
+          "iconifyClass": "simple-icons:terraform"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMTg1MjA5NTk=",
+      "name": "Chit Chat",
+      "url": "https://chit-chatapp.netlify.app/",
+      "description": "Chit-Chat allows users to real time chat in rooms and create rooms. The front end of this application was built with React JS and server side built using Node JS, Socket.IO was implemented for communication between client and server side.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Js",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node",
+          "iconifyClass": "logos-nodejs",
+          "color": "#339933"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjUzMjYyNTU=",
+      "name": "Netflix Clone",
+      "url": "https://netflix-clone-react-proj.netlify.app/",
+      "description": "Made a clone of Netflix home page using React JS for Frontend. Fetched TMDB API and used Axios to create external HTTP request. Applied styling and displayed the content with react-dom. Gave the functionality of playing Trailer through react-youtube library.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Js",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        }
+      ]
+    }
+  ]
+}
