@@ -16,7 +16,7 @@ jobs:
     - name: Setup Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: '16.x'
+        node-version: '18.18.0'
 
     - name: Install Dependencies
       run: npm install
@@ -26,7 +26,6 @@ jobs:
 
     - name: Deploy
       run: |
-        git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-        npm run deploy -- -u  "github-actions-bot <divykanani9@gmail.com>"
+        npm run deploy 
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
