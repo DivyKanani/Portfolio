@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Divy Kanani",
   logo_name: "Divy Kanani",
-  nickname: "DevKanani",
+  nickname: "DivyKanani",
   // and loves to teach
   subTitle:
     "Embracing the dynamic world of software development and DevOps, I'm a recent graduate driven by a fervor for crafting efficient, scalable solutions. With a solid foundation in coding and a penchant for automation, I'm poised to optimize workflows and elevate projects to new heights. From web applications to system architectures, I'm committed to creating robust, user-centric solutions. Let's collaborate and drive innovation together!",
