@@ -234,6 +234,15 @@ const certifications = {
       color_code: "#FFFFFF",
     },
     {
+      title: "Full Stack Java Developer",
+      subtitle: "Udemy",
+      logo_path: "Udemy_logo.svg.png",
+      certificate_link:
+        "https://www.udemy.com/certificate/UC-57e8c425-3999-4b8b-aa13-94908ccbf68c/",
+      alt_name: "Udemy",
+      color_code: "#FFFFFF",
+    },
+    {
       title: "AWS Cloud Essential",
       subtitle: "AWS | Coursera",
       logo_path: "aws.png",
