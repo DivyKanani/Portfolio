@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.074331f1.css",
-    "main.js": "/Portfolio/static/js/main.696a2208.js",
+    "main.js": "/Portfolio/static/js/main.17d77d99.js",
     "static/media/portfolio.gif": "/Portfolio/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/Portfolio/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/Portfolio/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -43,6 +43,7 @@
     "static/media/aws-certified-developer.png": "/Portfolio/static/media/aws-certified-developer.c699e4c10f709f17bb58.png",
     "static/media/Udemy_logo.svg.png": "/Portfolio/static/media/Udemy_logo.svg.e01559eef0fcaa6516dc.png",
     "static/media/aws.png": "/Portfolio/static/media/aws.fe6ed0b9d236eb09acd0.png",
+    "static/media/MLT.png": "/Portfolio/static/media/MLT.937bcce78f578076f3b2.png",
     "static/media/manOnTable.svg": "/Portfolio/static/media/manOnTable.f861b03b5a2d1a28c198.svg",
     "static/media/muffito_logo.png": "/Portfolio/static/media/muffito_logo.a40e290031eaf389bde1.png",
     "static/media/deeplearning_ai_logo.png": "/Portfolio/static/media/deeplearning_ai_logo.f5e1bd288e7a2b30a390.png",
@@ -77,10 +78,10 @@
     "static/media/talksCardBackAlt.svg": "/Portfolio/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/Portfolio/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.074331f1.css.map": "/Portfolio/static/css/main.074331f1.css.map",
-    "main.696a2208.js.map": "/Portfolio/static/js/main.696a2208.js.map"
+    "main.17d77d99.js.map": "/Portfolio/static/js/main.17d77d99.js.map"
   },
   "entrypoints": [
     "static/css/main.074331f1.css",
-    "static/js/main.696a2208.js"
+    "static/js/main.17d77d99.js"
   ]
 }
