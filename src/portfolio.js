@@ -305,8 +305,18 @@ const experience = {
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "Internships",
+      title: "Professional Experience",
       experiences: [
+        {
+          title: "Java Full Stack Developer",
+          company: "Machinele Technologies LLC",
+          company_url: "https://machinele.com/",
+          logo_path: "MLT.png",
+          duration: "Feb 2024 - Current",
+          location: "Dallas, TX",
+          description:
+            "● Followed SOA Design pattern and Used Agile methodology in developing the application, which included iterative application development, weekly Sprints, stand up meetings and customer reporting backlogs.● Built interactive web applications employing AngularJS and Spring Boot, enhancing responsiveness, and leading to a 20% increase in feature utilization.● Developed a highly scalable microservice using Spring Framework, enabling seamless communication between services through RESTful APIs. This enhancement led to a 40% improvement in data retrieval time for the product catalog.● Deployed the services on Amazon ECS, harnessing its auto-scaling capabilities to efficiently handle varying workloads.● Implemented CI/CD pipeline using GitHub Actions, ensuring continuous builds, tests, and seamless deployments for faster iterations, and automated the infrastructure using Terraform.● Safeguarded web applications from cross-site scripting, SQL injection and CSRF by effectively employing Spring Security.",
+        },
         {
           title: "Intern, DevOps Engineer",
           company: "Hyland Software",

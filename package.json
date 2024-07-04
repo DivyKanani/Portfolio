@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "Portfolio",
-  "homepage": "https://DivyKanani.github.io/home",
+  "homepage": "https://DivyKanani.github.io/Portfolio",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
